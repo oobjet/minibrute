@@ -1,5 +1,4 @@
 # minibrute
-norns scripts for minibrute synth
 
 norns_minibrute is a collection of utility app to control the minibrute synthesizer from the norns platform.
 Those apps can reconfigure the minibrute and generate a midi clock from a pulse audio signal to sync the minibrute to analog devices with no midi output.
